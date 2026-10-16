@@ -1,0 +1,6 @@
+{
+  "name": "Rewear — Modern Thrift & Vintage Fashion",
+  "description": "Discover unique pre-loved clothing, curated vintage pieces, and conscious style at Rewear. Your next favourite was loved before.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
